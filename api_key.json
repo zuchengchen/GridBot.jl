@@ -1,0 +1,26 @@
+{
+    "binance_main_spot" : {
+        "exchange": "binance",
+        "key": "bhoAdJAs0VTkRpmO042AwyBJnIenGFeCTLPy6AEDAnbNLnoZiS6v7aQm6t76mbxH",
+        "secret": "PM00OQfwjhjrKLye00ss2bFuxUF9pkj9lkh3Js53xWQL2E9vQSmPOLLd36EdBCaL",
+        "telegram": {
+            "enabled": false,
+            "notify_entry_fill": true,
+            "notify_close_fill": true,
+            "token": "bot_token",
+            "chat_id": "chat_id"
+        }
+    },
+    "binance_main_future" : {
+        "exchange": "binance",
+        "key": "2jtuPPfLoHSIEGZfsz5qotkGk1fUxk3WpEX3548Wn1NSKjGUm1xPY1xZiwnu9Sso", 
+        "secret":"hhopZ0j2jmjQvjxMTs0kzWeKeVHMtBwGfxhepUbXMxK6bw0cDdWg1yplUq3Q1XyX",
+        "telegram": {
+            "enabled": false,
+            "notify_entry_fill": true,
+            "notify_close_fill": true,
+            "token": "bot_token",
+            "chat_id": "chat_id"
+        }
+    }
+}
